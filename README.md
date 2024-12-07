@@ -1,8 +1,8 @@
 Train Booking API
 
-Step1: Clone repository locally and open that folder in code editor
-Step2: run-> 'npm init' in the terminal to initialize the project
-Step3: run-> 'npm install' in terminal to install the dependencies
+Step1: Clone repository locally and open that folder in code editor.
+Step2: run-> 'npm init' in the terminal to initialize the project.
+Step3: run-> 'npm install' in terminal to install the dependencies.
 Step4: run-> 'npm install express' in terminal to install the expressjs package.
 Step5: run-> 'npm install mysql' in terminal to install the mysql package for database.
 Step6: Now go the Mysql Workbench to create database and tables.
